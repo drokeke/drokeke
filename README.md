@@ -1,4 +1,27 @@
-### Hi there 👋
+<h1>Hi, I'm Nneoma! <br/><a href="https://github.com/joshmadakor1">Data Scientist</a>, <a href="https://github.com/joshmadakor1">Software Developer</a></h1>
+
+<h2>👩🏽‍💻  Data Science Projects:</h2>
+
+- <b>PowerBI</b>
+  - [Interactive dashboard 1](https://github.com/drokeke/dashboard1)
+- <b>Statistics</b>
+  - [Model in R](https://github.com/drokeke/modelR) <b><i>(Potentially NSFW)</b></i>
+- <b>Python</b>
+  - [PAndas and NumPy](https://github.com/drokeke/pandas)
+
+<h2>👩🏽‍💻  Software Development Projects</h2>
+
+- [Finance Calculators](https://github.com/drokeke/financecalcs)
+
+<h2>📜 Certifications </h2>
+
+- [Hyperion Software Engineering Bootcamp](https://www.linkedin.com/in/nneoma-okeke-62354673/)
+
+<h2> 🤳🏽 Connect with me:</h2>
+
+[<img align="left" alt="NneomaOkeke | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/nneoma-okeke-62354673/
 
 <!--
 **drokeke/drokeke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
