@@ -1,21 +1,18 @@
-<h1>Hi, I'm Nneoma! <br/><a href="https://github.com/joshmadakor1">Data Scientist</a>, <a href="https://github.com/joshmadakor1">Software Developer</a></h1>
+<h1>Hi, I'm Nneoma! <br/><a href="https://github.com/drokeke">Data Scientist</a>
 
 <h2>👩🏽‍💻  Data Science Projects:</h2>
 
 - <b>PowerBI</b>
   - [Interactive dashboard 1](https://github.com/drokeke/dashboard1)
 - <b>Statistics</b>
-  - [Model in R](https://github.com/drokeke/modelR) <b><i>(Potentially NSFW)</b></i>
+  - [Model in R](https://github.com/drokeke/modelR) 
 - <b>Python</b>
   - [PAndas and NumPy](https://github.com/drokeke/pandas)
 
-<h2>👩🏽‍💻  Software Development Projects</h2>
+<h2>👩🏽‍💻  Software Development Projects - Python </h2>
 
 - [Finance Calculators](https://github.com/drokeke/financecalcs)
 
-<h2>📜 Certifications </h2>
-
-- [Hyperion Software Engineering Bootcamp](https://www.linkedin.com/in/nneoma-okeke-62354673/)
 
 <h2> 🤳🏽 Connect with me:</h2>
 
